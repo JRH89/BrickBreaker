@@ -1,0 +1,23 @@
+# Ignore all spec files
+*.spec
+
+# Ignore all text files
+*.txt
+
+# Ignore all text files
+*.zip
+
+# Ignore all text files
+*.toc
+
+# Ignore all text files
+*.pyz
+
+# Ignore all text files
+*.pyc
+
+# Ignore all text files
+*.html
+
+# Ignore all text files
+*.pkg
