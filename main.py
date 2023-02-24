@@ -9,7 +9,7 @@ import time
 screen = tr.Screen()
 screen.setup(width=1200, height=600)
 screen.bgcolor('black')
-screen.title('Breakout')
+screen.title('Brick Breaker')
 screen.tracer(0)
 
 ui = UI()

@@ -25,7 +25,7 @@ class UI(Turtle):
 	def header(self):
 		self.clear()
 		self.goto(x=0, y=-150)
-		self.write('Breakout', align=ALIGNMENT, font=FONT)
+		self.write('Brick Breaker', align=ALIGNMENT, font=FONT)
 		self.goto(x=0, y=-180)
 		self.write('Press Space to PAUSE or RESUME the Game',
 				align=ALIGNMENT, font=('Calibri', 14, 'normal'))
